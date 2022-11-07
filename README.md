@@ -8,11 +8,16 @@ Simple Guy who likes to cook some codes.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Priyodit1234.Priyodit1234)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyodit1234&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyodit1234&langs_count=6&theme=tokyonight)]()
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Priyodit1234&count_private=true&theme=tokyonight&showicons=true)]()
 
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyodit1234&theme=tokyonight)]()
+<br/>
+<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyodit1234&theme=tokyonight)]()
 
