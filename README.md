@@ -1,5 +1,4 @@
-### 4th Year B.E. student of branch Information Technology in N.M.A.M. Institute of Technology.
-Simple Guy who likes to cook some codes.
+### 1st Year MBA student of branch Information Systems & Operations Managemnet in Alliance University.
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/seervi1432)
