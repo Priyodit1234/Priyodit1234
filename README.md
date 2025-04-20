@@ -1,4 +1,4 @@
-### 1st Year MBA student of branch Information Systems & Operations Managemnet in Alliance University.
+### 1st Year MBA student of branch Information Systems & Operations Management in Alliance University.
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/seervi1432)
